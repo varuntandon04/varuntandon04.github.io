@@ -1,5 +1,24 @@
 # Varun's Portfolio
 
+## Projects:
+
+## Finished:
+### [1. Sem6_TitanicProject](https://github.com/varuntandon04/Sem6_TitanicProject)
+
+### The primary goal was to learn and showcase:
+#### Data Handling:
+* Importing Data with Pandas
+* Cleaning Data
+* Exploring Data through Visualizations with Matplotlib
+
+#### Data Analysis:
+* Using supervised machine learning techniques
+
+#### Valuation of the Analysis:
+* K-folds cross validation to valuate results locally
+![]/(images/S6%20calc_prob.png)  ![](/images/S6%20download%20(1).png)  ![](/images/S6%20download.png)
+
+
 ## Certifications:
 ![](/images/Coursera%20Data%20Science%20Math%20Skills.jpg)
 Data Science Math Skills
