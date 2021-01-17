@@ -16,7 +16,7 @@
 
 #### Valuation of the Analysis:
 * K-folds cross validation to valuate results locally
-![]/(images/S6%20calc_prob.png)  ![](/images/S6%20download%20(1).png)  ![](/images/S6%20download.png)
+![](images/S6%20calc_prob.png)  ![](/images/S6%20download%20(1).png)  ![](/images/S6%20download.png)
 
 
 ## Certifications:
