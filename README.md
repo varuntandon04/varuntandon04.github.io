@@ -30,7 +30,7 @@
 #### Machine Learning
 ![](/images/Coursera%20Machine%20Learning.jpg)
 
-
+---
 
 #### Computer Vision
 ![](/images/Coursera%20Computer%20Vision.jpg)
