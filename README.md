@@ -2,7 +2,7 @@
 
 ## Projects:
 
-## Finished:
+### Finished:
 ### [1. Sem6_TitanicProject](https://github.com/varuntandon04/Sem6_TitanicProject)
 
 ### The primary goal was to learn and showcase:
