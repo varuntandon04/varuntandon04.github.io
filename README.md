@@ -19,13 +19,13 @@
 
 
 ![](images/S6%20calc_prob.png)  ![](/images/S6%20download%20(1).png)  ![](/images/S6%20download.png)
-
+---
 
 ## Certifications:
 #### Data Science Math Skills
 ![](/images/Coursera%20Data%20Science%20Math%20Skills.jpg)
 
-
+---
 
 #### Machine Learning
 ![](/images/Coursera%20Machine%20Learning.jpg)
@@ -35,10 +35,10 @@
 #### Computer Vision
 ![](/images/Coursera%20Computer%20Vision.jpg)
 
-
+---
 
 #### Applied Social Network Analysis in Python
 ![](/images/Coursera%20Applied%20Social%20Network%20Analysis%20in%20Python.jpg)
 
-
+---
 
