@@ -33,6 +33,21 @@
 
 ---  
 
+#### Applied Machine Learning in Python
+![](/images/Coursera%20Applied%20Machine%20Learning%20(1).jpg)
+
+---
+
+#### Applied Text Mining in Python
+![](/images/Coursera%20Text%20Mining%20in%20Python.jpg)
+
+---
+
+#### Applied Social Network Analysis in Python
+![](/images/Coursera%20Applied%20Social%20Network%20Analysis%20in%20Python.jpg)
+
+--- 
+
 #### Machine Learning
 ![](/images/Coursera%20Machine%20Learning.jpg)
 
@@ -43,8 +58,5 @@
 
 ---  
 
-#### Applied Social Network Analysis in Python
-![](/images/Coursera%20Applied%20Social%20Network%20Analysis%20in%20Python.jpg)
-
----  
+ 
 
