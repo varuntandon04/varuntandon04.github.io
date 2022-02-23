@@ -14,7 +14,6 @@
 * Accuracy
 
 ![](images/hepC%20image%201.PNG) ![](images/hepC%20image%202.PNG)
-![](images/S6%20calc_prob.png) ![](/images/S6%20download%20(1).png) ![](/images/S6%20download.png)
 ---
 
 ### [1. Sem6_TitanicProject](https://github.com/varuntandon04/Sem6_TitanicProject)
