@@ -18,6 +18,18 @@
 ![](images/hepC%20image%201.PNG) ![](images/hepC%20image%202.PNG)
 ---
 
+### [2. Classification of Pokemon using Convolutional Neural Networks](https://github.com/varuntandon04/Pokemon_CNN_Classification)
+
+### This project is to showcase my understanding of how Neural Networks operate and can be created from scratch. My goal was not to achieve near 100% accuracy, but rather see if a model I build is viable for the type of classification I'm performing and the type of [dataset](https://www.kaggle.com/thedagger/pokemon-generation-one) I'm using.
+#### Model Used:
+* A variation of VGG-16
+
+#### Metrics used:
+* Accuracy
+
+
+![](images/S6%20calc_prob.png) ![](/images/S6%20download%20(1).png) ![](/images/S6%20download.png)
+---
 ### [1. Sem6_TitanicProject](https://github.com/varuntandon04/Sem6_TitanicProject)
 
 ### The primary goal was to learn and showcase:
