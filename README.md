@@ -15,7 +15,8 @@
 
 
 #### Some snapshots:
-![](images/hepC%20image%201.PNG) ![](images/hepC%20image%202.PNG)
+![](images/hepC%20image%201.PNG) 
+![](images/hepC%20image%202.PNG)
 ---
 
 ### [2. Classification of Pokemon using Convolutional Neural Networks](https://github.com/varuntandon04/Pokemon_CNN_Classification)
@@ -29,7 +30,8 @@
 
 
 #### Some snapshots:
-![](images/pokeditt.JPG) ![](images/pokeacc.JPG) 
+![](images/pokeditt.JPG) 
+![](images/pokeacc.JPG) 
 ---
 ### [1. Sem6_TitanicProject](https://github.com/varuntandon04/Sem6_TitanicProject)
 
