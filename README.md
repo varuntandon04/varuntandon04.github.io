@@ -13,6 +13,8 @@
 #### Metrics used:
 * Accuracy
 
+
+Some snapshots:
 ![](images/hepC%20image%201.PNG) ![](images/hepC%20image%202.PNG)
 ---
 
