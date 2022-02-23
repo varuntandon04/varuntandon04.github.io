@@ -4,7 +4,7 @@
 
 ### [1. Classification of Hepatitis C Categories](https://github.com/varuntandon04/Hepatitis-C-Data-Analysis)
 
-### The primary goal was to perform multi-class classification on the Kaggle [dataset](https://www.kaggle.com/fedesoriano/hepatitis-c-dataset). Multiple models were tested and compared.
+### This project is to showcase my skills in a classification problem, and how I approach fine tuning models. The primary goal was to perform multi-class classification on the Kaggle [dataset](https://www.kaggle.com/fedesoriano/hepatitis-c-dataset). Multiple models were tested and compared.
 #### Models used:
 * Decision Tree
 * Random Forest
