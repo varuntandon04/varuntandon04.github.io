@@ -28,7 +28,8 @@
 * Accuracy
 
 
-![](images/S6%20calc_prob.png) ![](/images/S6%20download%20(1).png) ![](/images/S6%20download.png)
+#### Some snapshots:
+![](images/pokeditt.JPG) ![](images/pokeacc.JPG) 
 ---
 ### [1. Sem6_TitanicProject](https://github.com/varuntandon04/Sem6_TitanicProject)
 
