@@ -33,22 +33,23 @@
 ![](images/pokeditt.JPG) 
 ![](images/pokeacc.JPG) 
 ---
-### [1. Sem6_TitanicProject](https://github.com/varuntandon04/Sem6_TitanicProject)
+### [3. Hotstar Predict The Segment](https://github.com/varuntandon04/Hotstar-Predict-The-Segment)
 
-### The primary goal was to learn and showcase:
-#### Data Handling:
-* Importing Data with Pandas
-* Cleaning Data
-* Exploring Data through Visualizations with Matplotlib
+### This project was undertaken by my peers from RIT and I to classify whether a user of the streaming platform "Hotstar" would have a positive or a negitive sentiment towards the platform. The main goal of this project was to deal with data that was heavily imbalanced (2:23).
 
-#### Data Analysis:
-* Using supervised machine learning techniques
+#### Models used:
+* Logistic Regression
+* Decision Tree
+* Random Forest
+* XGBoost
 
-#### Valuation of the Analysis:
-* K-folds cross validation to valuate results locally
+#### Metrics Used:
+* AUC ROC 
 
+#### Some snapshots:
 
-![](images/S6%20calc_prob.png) ![](/images/S6%20download%20(1).png) ![](/images/S6%20download.png)
+![](images/S6%20calc_prob.png) 
+![](/images/S6%20download%20(1).png)
 ---
 
 
