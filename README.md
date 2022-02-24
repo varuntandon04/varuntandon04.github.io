@@ -48,8 +48,8 @@
 
 #### Some snapshots:
 
-![](images/S6%20calc_prob.png) 
-![](/images/S6%20download%20(1).png)
+![](images/modelscores.JPG) 
+![](main/images/todsegment.JPG)
 ---
 
 
