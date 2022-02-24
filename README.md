@@ -30,7 +30,8 @@
 
 
 #### Some snapshots:
-![](images/pokeditt.JPG) 
+![](images/pokeditt.JPG)
+
 ![](images/pokeacc.JPG) 
 ---
 ### [3. Hotstar Predict The Segment](https://github.com/varuntandon04/Hotstar-Predict-The-Segment)
@@ -49,7 +50,7 @@
 #### Some snapshots:
 
 ![](images/modelscores.JPG) 
-![](main/images/todsegment.JPG)
+![](images/todsegment.JPG)
 ---
 
 
