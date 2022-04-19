@@ -59,7 +59,9 @@
 
 ---
 
+## Published Research Paper:
 
+#### [Rice Crop Diseases and Pest Detection Using Edge Detection Techniques and Convolution Neural Network](https://link.springer.com/chapter/10.1007/978-981-16-8225-4_5)
 
 ## Certifications:
 #### Data Science Math Skills
