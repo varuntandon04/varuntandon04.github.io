@@ -22,7 +22,7 @@ What the graphs look like after community detection:
 #### This project deals with audio data, specifically musical snippets, and how features can be extracted from it. The audio clips are preprocessed into a time series data type. These time series are converted into graphical visualizations that can provide meaningful information, called mel spectographs. Further, useful metrics such as rms values of the time series, spectral bandwith, and frequencies can be extracted from the data, which can then provide meaningful features converting this into a  classification problem.
 
 #### Some snapshots:
-![](https://github.com/varuntandon04/Music-Genre-Feature-Extraction/blob/main/img/mel%20spectrogram%20example.png)
+![](images/mel spectrogram example.png)
 
 
 
