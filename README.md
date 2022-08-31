@@ -9,11 +9,11 @@
 #### Some snapshots:
 What the graphs look like:
 
-<img src="https://github.com/varuntandon04/Percy-Jackson-Relationship-Extraction/blob/main/Graphs/relationships.png" width="600">
+![](https://github.com/varuntandon04/Percy-Jackson-Relationship-Extraction/blob/main/Graphs/relationships.png)
 
 What the graphs look like after community detection:
 
-<img src="https://github.com/varuntandon04/Percy-Jackson-Relationship-Extraction/blob/main/Graphs/Community_relationships_2.png"  width="600">
+![](https://github.com/varuntandon04/Percy-Jackson-Relationship-Extraction/blob/main/Graphs/Community_relationships_2.png)
 
 ---
 
