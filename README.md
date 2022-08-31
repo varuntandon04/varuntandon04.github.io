@@ -2,6 +2,19 @@
 
 ## Projects:
 
+### [Extracting Relationships Between Percy Jackson Characters](https://github.com/varuntandon04/Percy-Jackson-Relationship-Extraction)
+
+#### This project comprises of two parts: Data collection via web scraping, and relationship extraction. The data is scraped with Selenuim and is then refined into a readable form after text preprocessing. The data is then converted into a edgelist dataframe, which can form a weighted graph. Using community detection, the graph is further divided into multiple sections, which is helpful for visualizations and analysis.
+
+#### Some snapshots:
+What the graphs look like:
+
+<img src="https://github.com/varuntandon04/Percy-Jackson-Relationship-Extraction/blob/main/Graphs/relationships.png" width="600">
+
+What the graphs look like after community detection:
+
+<img src="https://github.com/varuntandon04/Percy-Jackson-Relationship-Extraction/blob/main/Graphs/Community_relationships_2.png"  width="600">
+
 ### [Classification of Hepatitis C Categories](https://github.com/varuntandon04/Hepatitis-C-Data-Analysis)
 
 #### This project is to showcase my skills in a classification problem, and how I approach fine tuning models. The primary goal was to perform multi-class classification on the Kaggle [dataset](https://www.kaggle.com/fedesoriano/hepatitis-c-dataset). Multiple models were tested and compared.
