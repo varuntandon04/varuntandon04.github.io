@@ -15,6 +15,15 @@ What the graphs look like after community detection:
 
 <img src="https://github.com/varuntandon04/Percy-Jackson-Relationship-Extraction/blob/main/Graphs/Community_relationships_2.png"  width="600">
 
+---
+
+### [Feature Extraction From Music Genres](https://github.com/varuntandon04/Music-Genre-Feature-Extraction)
+
+#### This project deals with audio data, specifically musical snippets, and how features can be extracted from it. The audio clips are preprocessed into a time series data type. These time series are converted into graphical visualizations that can provide meaningful information, called mel spectographs. Further, useful metrics such as rms values of the time series, spectral bandwith, and frequencies can be extracted from the data, which can then provide meaningful features converting this into a  classification problem.
+
+#### Some snapshots:
+![](https://github.com/varuntandon04/Music-Genre-Feature-Extraction/blob/main/img/mel%20spectrogram%20example.png)
+
 ### [Classification of Hepatitis C Categories](https://github.com/varuntandon04/Hepatitis-C-Data-Analysis)
 
 #### This project is to showcase my skills in a classification problem, and how I approach fine tuning models. The primary goal was to perform multi-class classification on the Kaggle [dataset](https://www.kaggle.com/fedesoriano/hepatitis-c-dataset). Multiple models were tested and compared.
